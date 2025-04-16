@@ -1,0 +1,14 @@
+C:\Users\claudineisantos\Desktop\aprendendoStructs\bin\Debug\net9.0\aprendendoStructs.exe
+C:\Users\claudineisantos\Desktop\aprendendoStructs\bin\Debug\net9.0\aprendendoStructs.deps.json
+C:\Users\claudineisantos\Desktop\aprendendoStructs\bin\Debug\net9.0\aprendendoStructs.runtimeconfig.json
+C:\Users\claudineisantos\Desktop\aprendendoStructs\bin\Debug\net9.0\aprendendoStructs.dll
+C:\Users\claudineisantos\Desktop\aprendendoStructs\bin\Debug\net9.0\aprendendoStructs.pdb
+C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\aprendendoStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\aprendendoStructs.AssemblyInfoInputs.cache
+C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\aprendendoStructs.AssemblyInfo.cs
+C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\aprendendoStructs.csproj.CoreCompileInputs.cache
+C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\aprendendoStructs.dll
+C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\refint\aprendendoStructs.dll
+C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\aprendendoStructs.pdb
+C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\aprendendoStructs.genruntimeconfig.cache
+C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\ref\aprendendoStructs.dll
