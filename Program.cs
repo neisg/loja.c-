@@ -19,6 +19,22 @@ struct Produto
         this.peso = peso;
         this.marca = marca;
     }
+    public void AdicionarCupomDesconto(float desconto)
+    {
+        float preco = this.preco * desconto / 100;
+        if (preco > 0 && preco < 100)
+            this.preco = preco;
+        else
+            Console.WriteLine("Desconto inválido! O desconto deve ser entre 0 e 100%.");    
+        preco = preco - desconto;
+
+
+    }   
+   
+    public void AdicionarImposto(float imposto)
+    {
+        preco += imposto;
+    }       
   
     
 

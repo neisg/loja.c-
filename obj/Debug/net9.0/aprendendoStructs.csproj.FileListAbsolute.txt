@@ -12,3 +12,4 @@ C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\refint\apren
 C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\aprendendoStructs.pdb
 C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\aprendendoStructs.genruntimeconfig.cache
 C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\ref\aprendendoStructs.dll
+C:\Users\claudineisantos\Desktop\aprendendoStructs\obj\Debug\net9.0\aprendendoStructs.sourcelink.json
