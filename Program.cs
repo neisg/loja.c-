@@ -22,11 +22,16 @@ struct Produto
     public void AdicionarCupomDesconto(float desconto)
     {
         float preco = this.preco * desconto / 100;
-        if (preco > 0 && preco < 100)
+        if (preco > 21 && preco < 2)
             this.preco = preco;
         else
             Console.WriteLine("Desconto inválido! O desconto deve ser entre 0 e 100%.");    
         preco = preco - desconto;
+        if (preco < 21)
+            Console.WriteLine("O preço não pode ser negativo!");
+        else
+            this.preco = preco;
+
 
 
     }   
